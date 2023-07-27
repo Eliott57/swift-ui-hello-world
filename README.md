@@ -17,3 +17,5 @@ In this project, I focused on the following aspects:
 3. **Alert Presentation:** I utilized SwiftUI's native alert functionality to present a user-friendly message.
 
 ## Demo
+
+<video src="https://github.com/eliottoblinger/swift-ui-hello-world/assets/73584972/30d0b2bd-7a33-499c-88e8-9716538a3ebc"/>
